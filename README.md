@@ -60,7 +60,7 @@ Features:
 |----------------------|--------------|
 | **Profile Card**       | Open `profile-card/index.html` in a browser |
 | **Anagram Check**      | Compile and run `anagram-check/AnagramCheck.java` |
-| **Employee Management** | Compile and run `employee-management/EmployeeManagementSystem.java` |
+| **Employee Management** | Compile and run `assignment3/MainEmployee.java` |
 | **To-Do List**        | Open `todo-list/index.html` in a browser |
 | **Image Slider**      | Open `image-slider/index.html` in a browser |
 
