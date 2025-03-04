@@ -1,61 +1,86 @@
-Associate Software Engineer - Assignment
-This repository contains my submission for the Associate Software Engineer coding assignment. Below is a summary of the tasks completed.
+# 🚀 Associate Software Engineer - Assignment Submission
 
-Tasks
-Simple Profile Card
+Welcome to my **Associate Software Engineer** coding assignment submission. Below is a summary of the completed tasks, along with instructions on how to run them.
 
-Responsive profile card with a profile picture, name, designation, bio, and social media icons.
+---
 
-File: profile-card/index.html
+## 📌 Tasks Completed
 
-Anagram Check
+### 🖼️ 1. Simple Profile Card  
+✅ A **responsive** profile card featuring:  
+- 👤 Profile picture  
+- 🏷️ Name & designation  
+- 📝 Short bio  
+- 🔗 Social media icons  
 
-Java program to check if two strings are anagrams.
+📁 **File:** [`profile-card/index.html`](profile-card/index.html)  
 
-File: anagram-check/AnagramCheck.java
+---
 
-Employee Management System
+### 🔠 2. Anagram Check (Java)  
+✅ Java program to check if two strings are **anagrams** (contain the same characters in a different order).  
 
-Java program to manage employee details using OOP.
+📁 **File:** [`anagram-check/AnagramCheck.java`](anagram-check/AnagramCheck.java)  
 
-File: employee-management/EmployeeManagementSystem.java
+**Example Input/Output:**  
+```java
+Input: "listen", "silent"  ➝ Output: true  
+Input: "hello", "world"  ➝ Output: false  
 
-To-Do List
+🏢 3. Employee Management System (Java - OOP)
+✅ Java program to manage employee details using Object-Oriented Programming (OOP) concepts.
 
-JavaScript-based to-do list with add and remove functionality.
+📁 File: employee-management/EmployeeManagementSystem.java
 
-File: todo-list/index.html
+Features:
 
-Image Slider
+📌 Create multiple employees
+📋 Store them in a list
+📊 Display their details
 
-JavaScript image slider with next/previous buttons.
+✅ 4. To-Do List (JavaScript & DOM)
+✅ A dynamic JavaScript-powered To-Do List that allows users to:
 
-File: image-slider/index.html
+➕ Add new tasks
+🗑️ Remove tasks
+📋 Display tasks in an interactive list
+📁 File: todo-list/index.html
 
-How to Run
-Profile Card: Open profile-card/index.html in a browser.
+🖼️ 5. Image Slider (JavaScript & DOM)
+✅ JavaScript-based Image Slider that:
 
-Anagram Check: Compile and run anagram-check/AnagramCheck.java.
+🎞 Displays one image at a time
+⏭ Provides Next and Previous buttons
+📸 Uses an array of image URLs for smooth transitions
+📁 File: image-slider/index.html
 
-Employee Management: Compile and run assignment3/MainEmployee.java.
+## 🛠️ How to Run
 
-To-Do List: Open todo-list/index.html in a browser.
+| Task                  | Instructions |
+|----------------------|--------------|
+| **Profile Card**       | Open `profile-card/index.html` in a browser |
+| **Anagram Check**      | Compile and run `anagram-check/AnagramCheck.java` |
+| **Employee Management** | Compile and run `employee-management/EmployeeManagementSystem.java` |
+| **To-Do List**        | Open `todo-list/index.html` in a browser |
+| **Image Slider**      | Open `image-slider/index.html` in a browser |
 
-Image Slider: Open image-slider/index.html in a browser.
+📂 Repository Structure
+📁 Assignment/
+├── 📂 profile-card/
+│   └── index.html
+├── 📂 anagram-check/
+│   └── AnagramCheck.java
+├── 📂 assignment3/
+│   └── MainEmployee.java
+├── 📂 todo-list/
+│   └── index.html
+├── 📂 image-slider/
+│   └── index.html
+└── 📜 README.md
 
-Repository Structure
-assignment-submission/
-├── profile-card/
-├── anagram-check/
-├── employee-management/
-├── todo-list/
-├── image-slider/
-└── README.md
-Submission Details
-GitHub Repository: https://github.com/abhishekyadav1s/Assignment-CloudVandan.git
-
+📬 Submission Details
+GitHub Repository: GitHub Repository: https://github.com/abhishekyadav1s/AssignmentSubmission-CloudVandan.git
 Submitted by: Abhishek Yadav
-
 Email: yadavabhishek7237@gmail.com
+Date: 📅 04/03/2025
 
-Date: 04/03/2025
