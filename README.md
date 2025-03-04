@@ -44,7 +44,6 @@ To-Do List: Open todo-list/index.html in a browser.
 Image Slider: Open image-slider/index.html in a browser.
 
 Repository Structure
-Copy
 assignment-submission/
 ├── profile-card/
 ├── anagram-check/
